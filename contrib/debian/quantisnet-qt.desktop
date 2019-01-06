@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=QuantisNET
+Comment=QuantisNET P2P Cryptocurrency
+Comment[fr]=QuantisNET, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=QuantisNET, eşten eşe kriptografik sanal para birimi
+Exec=quantisnet-qt %u
+Terminal=false
+Type=Application
+Icon=quantisnet128
+MimeType=x-scheme-handler/quantisnet;
+Categories=Office;Finance;
