@@ -25,7 +25,8 @@
 
 - RPC Port: 7772
 
-- Current Wallet Version ( 2.0.1 ) Please see releases tabs for official wallet downloads ( https://github.com/QuantisDev/QuantisNet-Fork-New-Chain/releases )
+- Current Wallet Version ( 2.0.1 ) Please see releases tabs for official wallet downloads 
+* https://github.com/QuantisDev/QuantisNet-Fork-New-Chain/releases *
 
 ## Coin Emission Rate
 Year 1: Block reward: Max. **5 QUAN** per block (split dynamically between stakers & masternodes)
