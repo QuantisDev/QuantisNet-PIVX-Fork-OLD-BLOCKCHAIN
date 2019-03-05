@@ -145,7 +145,7 @@
                   </size>
                  </property>
                  <property name="toolTip">
-                  <string>Enter an amount of QuantisNET to convert (mint) to zQuantisNET</string>
+                  <string>Enter an amount of Quan to convert (mint) to zQuan</string>
                  </property>
                  <property name="text">
                   <string>Mint QUAN to zQUAN</string>
@@ -178,7 +178,7 @@
                <item>
                 <widget class="QLabel" name="labelzQUANAmountText">
                  <property name="toolTip">
-                  <string>Available Balance are coins (QuantisNET) which are confirmed and not locked or Masternode collaterals.</string>
+                  <string>Available Balance are coins (Quan) which are confirmed and not locked or Masternode collaterals.</string>
                  </property>
                  <property name="text">
                   <string>Available Balance:</string>
@@ -191,7 +191,7 @@
                <item>
                 <widget class="QLabel" name="labelzQUANAmountValue">
                  <property name="toolTip">
-                  <string>Enter an amount of QuantisNET to convert to zQuantisNET</string>
+                  <string>Enter an amount of Quan to convert to zQuan</string>
                  </property>
                  <property name="text">
                   <string>0.000 000 00 QUAN</string>
@@ -223,7 +223,7 @@
                   </size>
                  </property>
                  <property name="toolTip">
-                  <string>Reset Zerocoin (zQuantisNET) Wallet DB. Deletes transactions that did not make it into the blockchain.</string>
+                  <string>Reset Zerocoin (zQuan) Wallet DB. Deletes transactions that did not make it into the blockchain.</string>
                  </property>
                  <property name="text">
                   <string>Reset</string>
@@ -431,7 +431,7 @@
                 </font>
                </property>
                <property name="toolTip">
-                <string>Status and/or Mesages from the last Mint Action.</string>
+                <string>Status and/or Messages from the last Mint Action.</string>
                </property>
                <property name="frameShape">
                 <enum>QFrame::Panel</enum>
@@ -476,14 +476,14 @@
                <item>
                 <widget class="QPushButton" name="pushButtonZQuantisNETControl">
                  <property name="text">
-                  <string>zQuantisNET Control</string>
+                  <string>zQuan Control</string>
                  </property>
                 </widget>
                </item>
                <item>
                 <widget class="QLabel" name="labelzQuantisNETSelected">
                  <property name="text">
-                  <string>zQuantisNET Selected:</string>
+                  <string>zQuan Selected:</string>
                  </property>
                 </widget>
                </item>
@@ -607,7 +607,7 @@ zQUAN are mature when they have more than 20 confirmations AND more than 1 mints
                <item>
                 <widget class="QLabel" name="labelSecurityLevel">
                  <property name="toolTip">
-                  <string>Security Level for Zerocoin (zQuantisNET) Transactions. More is better, but needs more time and resources.</string>
+                  <string>Security Level for Zerocoin (zQuan) Transactions. More is better, but needs more time and resources.</string>
                  </property>
                  <property name="frameShape">
                   <enum>QFrame::Box</enum>
@@ -895,7 +895,7 @@ zQUAN are mature when they have more than 20 confirmations AND more than 1 mints
                   </font>
                  </property>
                  <property name="toolTip">
-                  <string>Information about the available zQuantisNET funds.</string>
+                  <string>Information about the available zQuan funds.</string>
                  </property>
                  <property name="text">
                   <string>zQUAN Stats:</string>
