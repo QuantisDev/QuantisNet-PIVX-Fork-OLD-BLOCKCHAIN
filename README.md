@@ -3,6 +3,8 @@
 ## Core Specifications
 - Consensus Algorithm: PoS + zPoS Hybrid
 
+- Hashing Algorithm: XEVAN
+
 - Block size: 2 MB
 
 - Block Time: 110 Seconds (Re-targeting every block)
