@@ -95,7 +95,7 @@ Node removal: 130 minutes
 
 
 # Quantis Privacy Features
-- Privacy Technology: Custom Zerocoin Protocol based on Libzerocoin (we call this zPIV)
+- Privacy Technology: Custom Zerocoin Protocol based on Libzerocoin (we call this zQUAN)
 
 - Key Features: Custom accumulator check-pointing system
 
