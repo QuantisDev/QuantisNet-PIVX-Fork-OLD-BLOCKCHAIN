@@ -82,8 +82,8 @@ Maturity Confirms: 200 confirms
 Wallet Status: Requires core wallet to remain online and unlocked for staking.
 
 ## Transaction Send Eligibility
-Minimum Confirm (PIV) : 6 confirms
-Minimum Confirm (zPIV): 20 confirms + 1 new mint of the same denomination in the network
+Minimum Confirm (QUAN) : 6 confirms
+Minimum Confirm (zQUAN): 20 confirms + 1 new mint of the same denomination in the network
 
 ## SwiftX Eligibility
 Confirmations: 1 for locking and 6 to spend.
