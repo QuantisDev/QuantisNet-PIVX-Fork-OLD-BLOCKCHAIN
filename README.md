@@ -79,14 +79,17 @@ Each Masternode is allowed 1 vote per proposal
 
 ## PoS Stake Eligibility (QUAN)
 Maturity Confirms: 101 confirms
+
 Wallet Status: Requires core wallet to remain online and unlocked for staking.
 
 ## zPoS Stake Eligibility (QUAN) ( Will be disabled until future wallet release )
 Maturity Confirms: 200 confirms
+
 Wallet Status: Requires core wallet to remain online and unlocked for staking.
 
 ## Transaction Send Eligibility
 Minimum Confirm (QUAN) : 6 confirms
+
 Minimum Confirm (zQUAN): 20 confirms + 1 new mint of the same denomination in the network
 
 ## SwiftX Eligibility
